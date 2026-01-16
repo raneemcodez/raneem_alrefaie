@@ -23,7 +23,7 @@ const raneem = {
   mobileDevelopment: ["Flutter", "Dart"],
   backend: ["PHP", "MySQL", "REST APIs"],
   stateManagement: ["GetX"],
-  hardware: ["ESP32", "Arduino", "DHT11 Sensor"],
+  hardware: ["ESP32", "Arduino"],
   tools: ["Git", "GitHub", "Android Studio", "VS Code"],
   interests: [
     "Smart Home Systems",
